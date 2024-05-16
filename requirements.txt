@@ -1,2 +1,2 @@
 # Pip install -r requirements.txt
-Colorama
+snowflake
