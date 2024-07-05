@@ -49,4 +49,5 @@ def main(dir, ShowSuccesfull_stmt):
 if __name__ == "__main__":
     print(datetime.datetime.now())
     main('./sql', '0')
+    main('./iceberg', '0')
     print(datetime.datetime.now())

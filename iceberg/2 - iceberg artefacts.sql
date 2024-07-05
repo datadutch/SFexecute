@@ -7,7 +7,7 @@ GRANT ALL ON SCHEMA iceberg_lab.iceberg_lab TO ROLE iceberg_lab WITH GRANT OPTIO
 GRANT ALL ON WAREHOUSE iceberg_lab TO ROLE iceberg_lab WITH GRANT OPTION;;
 
 CREATE USER iceberg_lab
-    PASSWORD='<your desired password>',
+    PASSWORD='NSrzXExBT8@TPD4z6',
     LOGIN_NAME='ICEBERG_LAB',
     MUST_CHANGE_PASSWORD=FALSE,
     DISABLED=FALSE,
@@ -16,5 +16,5 @@ CREATE USER iceberg_lab
     DEFAULT_ROLE='ICEBERG_LAB';
 
 GRANT ROLE iceberg_lab TO USER iceberg_lab;
-GRANT ROLE iceberg_lab TO USER <your username>;
+GRANT ROLE iceberg_lab TO USER user_1;
 GRANT ROLE accountadmin TO USER iceberg_lab;
