@@ -17,4 +17,5 @@ CREATE USER IF NOT EXISTS iceberg_lab
 
 GRANT ROLE iceberg_lab TO USER iceberg_lab;
 GRANT ROLE iceberg_lab TO USER user_1;
+GRANT ROLE iceberg_lab TO USER trialjun2024;
 GRANT ROLE accountadmin TO USER iceberg_lab;
