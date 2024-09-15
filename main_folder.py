@@ -72,3 +72,5 @@ if __name__ == "__main__":
 # changes for errormessage AttributeError: 'str' object has no attribute 'readline'
 # changes for different encoding
 # python main_folder.py ./iceberg 0
+# run via background
+# nohup python main_folder.py ./cost 0 &

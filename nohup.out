@@ -1,0 +1,8 @@
+2024-09-14 11:40:34.608668
+Running script in: ./cost/altimate.sql
+Foutmelding: 000604 (57014): SQL execution canceled
+Running script in: ./cost/baselit.sql
+Foutmelding: 000900 (42601): SQL compilation error:
+Empty SQL statement.
+Alle scripts gedraaid op Snowflake (2 scripts: 0 OK, 2 NOK).
+2024-09-14 14:52:16.341551
