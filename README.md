@@ -25,6 +25,9 @@ Add the Dedicated Login URL to your "account"
 nohup python main_folder.py ./cost 0 &
 
 nohup: execute without being cancelled when the terminal window is closed
+
 ./cost: the folder that needs to be executed
+
 0: Show successful statements (1 for yes, 0 for no)
+
 &: Run in the background
