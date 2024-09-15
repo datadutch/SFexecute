@@ -1,12 +1,12 @@
-# Disclaimer
+# SFexecute
+Executing local SQL scripts in your Snowflake account
+
+## Disclaimer
 This is a script mainly constructed from stuff I found on Stackoverflow
 Modifications have been made using CoPilot
 
 # Updates
 Sep-24: added the option to specify a folder parameter
-
-# SFexecute
-Executing local SQL scripts in your Snowflake account
 
 # Config
 
